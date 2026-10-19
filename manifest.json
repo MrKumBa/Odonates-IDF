@@ -1,0 +1,9 @@
+{
+  "name": "Quiz Odonates d'Île-de-France",
+  "short_name": "Odonates",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ece3cb",
+  "theme_color": "#3d5a2a",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
